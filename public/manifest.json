@@ -1,0 +1,26 @@
+{
+    "name": "Made in Algeria",
+    "short_name": "MadeInDZ",
+    "description": "Showcasing open-source projects from Algerian developers",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ECEDEC",
+    "theme_color": "#4A834C",
+    "icons": [
+      {
+        "src": "/apple-icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/apple-icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "lang": "en",
+    "dir": "ltr",
+    "categories": ["technology", "developer tools", "open source"],
+    "related_applications": [],
+    "prefer_related_applications": false
+  }
